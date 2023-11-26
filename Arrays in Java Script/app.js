@@ -2,8 +2,6 @@
 // basic of array 
 let student = ["ashish","ayush","mahi","diksha"]
 student[1]="Jasmine"
-student[4]="KuttaKamina"
-student[5]="KuttaKamina Chutiya"
 console.log(student)
 console.log(student.length);
 console.log(student[1].length);
